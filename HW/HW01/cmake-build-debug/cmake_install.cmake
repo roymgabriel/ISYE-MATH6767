@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Roy/Desktop/College/GeorgiaTech/QCF/MATH6767/HW/HW01
+# Install script for directory: /Users/Roy/Desktop/College/GeorgiaTech/QCF/ISYE-MATH6767/HW/HW01
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Roy/Desktop/College/GeorgiaTech/QCF/MATH6767/HW/HW01/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Roy/Desktop/College/GeorgiaTech/QCF/ISYE-MATH6767/HW/HW01/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
