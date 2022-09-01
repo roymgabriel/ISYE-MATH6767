@@ -1,0 +1,3 @@
+/Users/Roy/Desktop/College/GeorgiaTech/QCF/MATH6767/HW/HW01/cmake-build-debug/CMakeFiles/HW01.dir
+/Users/Roy/Desktop/College/GeorgiaTech/QCF/MATH6767/HW/HW01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Roy/Desktop/College/GeorgiaTech/QCF/MATH6767/HW/HW01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
