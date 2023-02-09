@@ -1,0 +1,13 @@
+# ninja log v5
+2	386	1665773096813396696	CMakeFiles/project_1.dir/unit_test.cpp.o	6f6303ac076fe2a1
+2	535	1665773096962447760	CMakeFiles/project_1.dir/DeltaHedgerWithInputData.cpp.o	e01a5893f829ce69
+1	19	1665684212532070637	CMakeFiles/project_1.dir/Option_Price.cpp.o	72bdc6fb208bdb21
+1	413	1665773096840400906	CMakeFiles/project_1.dir/main.cpp.o	88c6f7cacc4d6f03
+535	578	1665773097007549525	project_1	dca7595d40ccd339
+0	295	1665612768658158416	CMakeFiles/project_1.dir/StdNormalCDF.cpp.o	b2ad9aa8b4b04bf8
+1	233	1665684273636722767	CMakeFiles/project_1.dir/Option.cpp.o	9a69467a56e0fa32
+1	327	1665770511558268557	CMakeFiles/project_1.dir/DeltaHedger.cpp.o	471fbeb98ba6bbac
+0	57	1665790286278449516	build.ninja	46bb72966f39d744
+2	226	1665790992925823979	CMakeFiles/project_1.dir/unit_test.cpp.o	6f6303ac076fe2a1
+1	233	1665790992932602407	CMakeFiles/project_1.dir/main.cpp.o	88c6f7cacc4d6f03
+233	313	1665790993014387548	project_1	dca7595d40ccd339
